@@ -13,6 +13,8 @@
   - [10. Match Rules](#10-match-rules)
   - [11. Stat Collection](#11-stat-collection)
   - [12. Disciplinary System](#12-disciplinary-system)
+    - [Manager](#manager)
+    - [Players](#players)
   - [13. Streamer Settings](#13-streamer-settings)
   - [14. Rematches](#14-rematches)
   - [15. Preseason Cup Rules (This is outdated and I am lazy)](#15-preseason-cup-rules-this-is-outdated-and-i-am-lazy)
@@ -237,195 +239,60 @@ _Note: Free Agents do not count as loans. All loan players must come from an exi
 * Disciplinary points gained during a season can carry over to the next one. Either half the points accrued during the season or 10 points will be subtracted from season to season, whichever number is higher.
   * Disciplinary points follow the manager, not the club. For example, if a manager folds one team and makes another, their disciplinary points will follow them.
 
-Manager
 
+### Manager
 
-<table>
-  <tr>
-   <td>Failure to submit accurate lineup, results, stats on your google sheet, roster change/update roster
-   </td>
-   <td>1st infraction: 1 point
-<p>
-2nd infraction: 2 points
-<p>
-3rd infraction: 3 points
-<p>
-Increasing by 1 each infraction after 3
-   </td>
-  </tr>
-  <tr>
-   <td>Failure to respond to an LO message in a reasonable amount of time
-   </td>
-   <td>1st infraction: Warning
-<p>
-2nd infraction: 1 point
-<p>
-3rd infraction: 2 point
-<p>
-Increasing by 1 each infraction after 3
-   </td>
-  </tr>
-  <tr>
-   <td>Failure to submit an accurate lineup
-   </td>
-   <td>1 point
-   </td>
-  </tr>
-  <tr>
-   <td>Failure to show up with a minimum of 8 players
-   </td>
-   <td>2 points
-   </td>
-  </tr>
-  <tr>
-   <td>Failure to have an Any
-   </td>
-   <td>2 points
-   </td>
-  </tr>
-  <tr>
-   <td>Intentionally stalling past the 10 minutes
-   </td>
-   <td>2 points
-   </td>
-  </tr>
-  <tr>
-   <td>Playing a banned player
-   </td>
-   <td>3 points
-   </td>
-  </tr>
-  <tr>
-   <td>Stat Boosting
-   </td>
-   <td>3 points
-   </td>
-  </tr>
-  <tr>
-   <td>Signing a DP without Player Permission
-   </td>
-   <td>3 points
-   </td>
-  </tr>
-  <tr>
-   <td>Failure to show up to a game or matchday
-   </td>
-   <td>10 points
-   </td>
-  </tr>
-  <tr>
-   <td>Match Fixing
-   </td>
-   <td>3000 points
-   </td>
-  </tr>
-  <tr>
-   <td>Any other action action an LO sees necessary
-   </td>
-   <td>TBD
-   </td>
-  </tr>
-</table>
+| Offense | Penalty |
+| ------- | ------- |
+| Failure to submit accurate lineup, results, stats on your google sheet, roster change/update roster | 1st infraction: 1 point <br> 2nd infraction: 2 points <br> 3rd infraction: 3 points <br> Increasing by 1 each infraction after 3 |
+| Failure to respond to an LO message in a reasonable amount of time | 1st infraction: Warning <br> 2nd infraction: 1 point <br> 3rd infraction: 2 point <br> Increasing by 1 each infraction after 3 |
+| Failure to submit an accurate lineup | 1 point |
+| Failure to show up with a minimum of 8 players | 2 points |
+| Failure to have an Any | 2 points |
+| Intentionally stalling past the 10 minutes | 2 points |
+| Playing a banned player | 3 points |
+| Stat Boosting | 3 points |
+| Signing a DP without Player Permission | 3 points |
+| Failure to show up to a game or matchday | 10 points |
+| Match Fixing | 3000 points |
+| Any other action action an LO sees necessary | TBD |
 
 
 Manager Thresholds:
 
-5 points		1 point deduction from the club on the league table
-
-10 points		3 point deduction
-
-15 points		3 point deduction
-
-20 points		3 point deduction
-
-
-            25 points	LO imposed manager removal and a ban to be determined by LOs (based off how long is left in the season)
-
-Players
+| Accumulated Points | Penalty |
+| ------ | ------- |
+| 5 points | 1 point deduction from the club on the league table |
+| 10 points | 3 point deduction |
+| 15 points | 3 point deduction |
+| 20 points | 3 point deduction |
+| 25 points | LO imposed manager removal and a ban to be determined by LOs (based off how long is left in the season) |
 
 
-<table>
-  <tr>
-   <td>Failure to be in the PCA team voice chat for a game
-   </td>
-   <td>1st infraction: 1 point
-<p>
-2nd infraction: 2 points
-<p>
-3rd infraction: 3 points
-<p>
-Increasing by 1 each infraction after 3
-   </td>
-  </tr>
-  <tr>
-   <td>Exploiting game mechanics (breaking match rules)
-   </td>
-   <td>2 points
-   </td>
-  </tr>
-  <tr>
-   <td>Leaving a game intentionally
-   </td>
-   <td>3 points
-   </td>
-  </tr>
-  <tr>
-   <td>Failure to turn up to games when you said you can
-   </td>
-   <td>3 points
-   </td>
-  </tr>
-  <tr>
-   <td>Mild Time Wasting
-   </td>
-   <td>5 points
-   </td>
-  </tr>
-  <tr>
-   <td>Moderate Time Wasting
-   </td>
-   <td>10 points
-   </td>
-  </tr>
-  <tr>
-   <td>Severe Time Wasting
-   </td>
-   <td>15 points
-   </td>
-  </tr>
-  <tr>
-   <td>Cheating, glitched pros
-   </td>
-   <td>Ban from league
-   </td>
-  </tr>
-  <tr>
-   <td>Breaking Code of Conduct
-   </td>
-   <td>TBD (varies in severity)
-   </td>
-  </tr>
-  <tr>
-   <td>Any other action action an LO sees necessary
-   </td>
-   <td>TBD
-   </td>
-  </tr>
-</table>
+### Players
 
+| Offense | Penalty |
+| ------- | ------- |
+| Failure to be in the PCA team voice chat for a game | 1st infraction: 1 point <br> 2nd infraction: 2 points <br> 3rd infraction: 3 points <br> Increasing by 1 each infraction after 3 |
+| Exploiting game mechanics (breaking match rules) | 2 points |
+| Leaving a game intentionally | 3 points |
+| Failure to turn up to games when you said you can | 3 points |
+| Mild Time Wasting | 5 points |
+| Moderate Time Wasting | 10 points |
+| Severe Time Wasting | 15 points |
+| Cheating, glitched pros | Ban from league |
+| Breaking Code of Conduct |TBD (varies in severity) |
+| Any other action action an LO sees necessary | TBD |
 
 Player Thresholds:
 
-5 points		1 game ban
-
-10 points		Player Stats Wipe and 2 game ban
-
-15 points		4 game ban
-
-20 points		Seasonban
-
-25 points		Permaban
-
+| Accumulated Points | Penalty |
+| ------ | ------- |
+| 5 points | 1 game ban |
+| 10 points | Player Stats Wipe and 2 game ban |
+| 15 points | 4 game ban |
+| 20 points | Season ban |
+| 25 points | Permaban |
 
 
 * When a threshold is reached, LOs can trigger a vote to see if the player or manager should be season or perma banned at that point.
